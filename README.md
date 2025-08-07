@@ -1,2 +1,2 @@
-# flowers-tumors-logisticclassification
-This code block shows the flower type according to the features "SepalLengthCm","SepalWidthCm","PetalLengthCm","PetalWidthCm", whether a tumor is benign or not according to all of the feautures except the target column with using logistic classification machine learning algorithm.
+It looks like there is nothing to read here. Go away to the code block.
+
